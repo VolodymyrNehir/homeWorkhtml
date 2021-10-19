@@ -8,6 +8,9 @@ h1{
     border-radius: 5px;
     padding-left: 38%;
 }
+h2{
+    text-align: center;
+}
 .soli,a {
     color: black;
     font-size: 17px;
