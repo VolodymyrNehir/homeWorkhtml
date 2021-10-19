@@ -1,3 +1,4 @@
+
 p a {
     color: #ffffff;
 }
@@ -22,18 +23,12 @@ p{
     border-left: #4267b2 11px solid;
 }
 a:hover{
-    <<<<<<< HEAD
-    color: #021844;
-=======
-color: #ffffff;
->>>>>>> origin/master
-font-size: 20px;
+    color: #ffffff;
+    font-size: 20px;
 
 
 
 }
-<<<<<<< HEAD
-=======
 img{
     border: #4267b2 5px solid;
     border-radius: 4px;
@@ -93,6 +88,7 @@ img{
      padding: 5px;
      border-radius: 5%;
      margin-bottom: 5px;
+
  }                   ДЛЯ НАБИВАННЯ РУКИ*/
 .menu {
 
@@ -106,5 +102,7 @@ li{
 
 }
 
-body{
+body {
     background: white;
+}
+
