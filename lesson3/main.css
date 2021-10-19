@@ -1,0 +1,110 @@
+p a {
+    color: #ffffff;
+}
+h1{
+    background: #4267b2;
+    color: #ffffff;
+    border-radius: 5px;
+    padding-left: 38%;
+}
+.soli,a {
+    color: black;
+    font-size: 17px;
+    scroll-behavior: smooth;
+}
+p{
+    background: #1877f2;
+    color: #0f0d0d;
+    border-radius: 5px;
+    font-size: 18px;
+    padding-left: 15px;
+    border-bottom: #4267b2 8px solid;
+    border-left: #4267b2 11px solid;
+}
+a:hover{
+    <<<<<<< HEAD
+    color: #021844;
+=======
+color: #ffffff;
+>>>>>>> origin/master
+font-size: 20px;
+
+
+
+}
+<<<<<<< HEAD
+=======
+img{
+    border: #4267b2 5px solid;
+    border-radius: 4px;
+    margin: 20px;
+}
+.a,.b,.c,.d,.e{ background: #4267b2;
+    width: 200px;
+
+    border: #343232 1px solid;
+    padding: 5px;
+    border-radius: 5%;
+    margin-left: 5px;
+    font-size: 18px;
+    float: left;
+    min-height: 46px;
+
+
+
+
+
+}
+/* .a {
+     background: #4267b2;      width: 240px;
+     border: #343232 1px solid;
+     padding: 5px;
+     border-radius: 5%;
+     margin-bottom: 5px;
+ }
+ .b{
+     background: #4267b2;
+     border: #343232 1px solid;
+     width: 240px;
+     padding: 5px;
+     border-radius: 5%;
+     margin-bottom: 5px;
+ }
+ .c{
+     background: #4267b2;
+     border: #343232 1px solid;
+     width: 240px;
+     padding: 5px;
+     border-radius: 5%;
+     margin-bottom: 5px;
+ }
+ .d{
+     background: #4267b2;
+     border: #343232 1px solid;
+     width: 240px;
+     padding: 5px;
+     border-radius: 5%;
+     margin-bottom: 5px;
+ }
+ .e{
+     background: #4267b2;
+     border: #343232 1px solid;
+     width: 240px;
+     padding: 5px;
+     border-radius: 5%;
+     margin-bottom: 5px;
+ }                   ДЛЯ НАБИВАННЯ РУКИ*/
+.menu {
+
+}
+li{
+    background: #4267b2;
+    width: 240px;
+    margin-bottom: 5px;
+    border-radius: 4px;
+
+
+}
+
+body{
+    background: white;

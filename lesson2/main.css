@@ -1,0 +1,23 @@
+h1 {
+    background: #4267b2;
+    color: #fff;
+}
+.soli,a {
+    color: black;
+    scroll-behavior: smooth;
+    font-size: 16px;
+}
+p{
+    background: #1877f2;
+    color: #ffffff;
+
+}
+a:hover{
+    color:#4267b2;
+    font-size: 20px;
+}
+ul,li#c:hover{
+    font-size: 17px;
+    scroll-behavior: smooth;
+
+}
