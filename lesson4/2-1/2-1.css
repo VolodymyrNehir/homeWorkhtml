@@ -1,0 +1,54 @@
+.root {
+
+    width: 800px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    row-gap: 4px;
+    column-gap: 4px;
+    background: silver;
+    flex-direction: column;
+}
+#headr {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+    width: 100%;
+    background: #d0b46d;
+}
+.post {
+    background: #1877f2;
+    row-gap: 4px;
+    column-gap: 4px;
+    flex-grow: 1;
+
+
+}
+.m-p{
+    display: flex;
+    height: 400px;
+    width: 800px;
+
+
+
+}
+.menu{
+    height: 50%;
+    width: 400px;
+    display: flex;
+    background: #1877f2;
+
+    justify-content: end;
+
+
+}
+.posts {
+    width: 400px;
+    display: flex;
+    background: yellow;
+
+    height: 50%;
+    justify-content: start;
+    flex-direction: column;
+}
