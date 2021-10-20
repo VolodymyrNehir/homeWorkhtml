@@ -27,7 +27,7 @@ text-align: center;
 
 .a {
     display: flex;
-height: 70%;
+
     width: 100%;
     flex-basis: 400px;
     column-gap: 4px;
