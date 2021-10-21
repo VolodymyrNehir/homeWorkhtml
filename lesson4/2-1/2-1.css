@@ -30,6 +30,7 @@
     flex-basis: 400px;
 
 
+
 }
 
 .menu {
@@ -38,6 +39,7 @@
     flex-basis: 400px;
     flex-grow: 1;
     justify-content: center;
+    align-items: center;
 
 
 }
@@ -49,6 +51,7 @@
     flex-direction: column;
     box-sizing: border-box;
     row-gap: 10px;
+
 }
 
 .post {
@@ -56,6 +59,8 @@
     display: flex;
     background: #4267b2;
     flex-grow: 200;
+    justify-content: center;
+    align-items: center;
 }
 
 #footer {
