@@ -1,0 +1,53 @@
+.father {
+    flex-direction: column;
+    display: flex;
+    width: 900px;
+}
+.top{
+    display: flex;
+    justify-content: start;
+    flex-direction: column;
+
+
+}
+.header{
+    background: #33559b;
+    display: flex;
+    flex-basis: 170px;
+    align-items: center;
+    justify-content: center;
+
+
+}
+.nav{
+    background: goldenrod;
+    display: flex;
+   flex-basis: 100px;
+    align-items: center;
+    justify-content: center;
+}
+.canter{
+    display: flex;
+    height: 400px;
+
+}
+.main{
+    background: gold;
+    display: flex;
+    flex-grow: 7;
+    align-items: center;
+    justify-content: center;
+}
+.aside {
+    background: hotpink;
+    display: flex;
+    flex-grow: 3;
+    align-items: center;
+    justify-content: center;
+}
+.footer{
+    display: flex;
+    background: darkturquoise;
+    align-items: center;
+    justify-content: center;
+}

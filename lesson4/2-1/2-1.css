@@ -23,7 +23,6 @@
 }
 
 .menu_post {
-    flex-grow: ;
     column-gap: 10px;
     display: flex;
     justify-content: center;
@@ -36,7 +35,6 @@
 .menu {
     display: flex;
     background: hotpink;
-    flex-basis: 400px;
     flex-grow: 1;
     justify-content: center;
     align-items: center;
@@ -46,8 +44,7 @@
 
 .posts {
     display: flex;
-    flex-basis: 400px;
-    flex-grow: 11;
+    flex-grow: 5;
     flex-direction: column;
     box-sizing: border-box;
     row-gap: 10px;
