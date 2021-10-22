@@ -1,0 +1,80 @@
+.father {
+    background: silver;
+    height: 500px;
+    flex-direction: column;
+    padding-bottom: 40px;
+    box-sizing: border-box;
+    row-gap: 13px;
+}
+
+.display_flex {
+    display: flex;
+}
+
+.top_bar {
+    flex-grow: 1;
+    box-sizing: border-box;
+    justify-content: center;
+    align-items: center;
+
+
+}
+
+.bar {
+    width: 85%;
+    height: 97%;
+    align-items: center;
+    justify-content: center;
+    border: 4px solid deepskyblue;
+    border-radius: 50px;
+    flex-direction: column;
+
+}
+
+.bottom {
+    background: #33559b;
+    flex-grow: 1;
+
+}
+
+.hader {
+    flex-grow: 1;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+}
+
+.tape {
+    flex-grow: 9;
+    width: 100%;
+    column-gap: 50px;
+    row-gap: 5px;
+
+}
+
+.tape_1, .tape_2, .tape_3, .tape_4 {
+    flex-grow: 1;
+    padding: 30px;
+    flex-direction: column;
+    box-sizing: border-box;
+
+}
+
+.tape_1_img, .tape_2_img, .tape_3_img, .tape_4_img {
+    background: #33559b;
+    height: 50%;
+    padding: 10px;
+    border-radius: 15px;
+}
+
+.tape_1_tex, .tape_2_tex, .tape_3_tex, .tape_4_tex {
+    height: 50%;
+    box-sizing: border-box;
+
+}
+.cart_1,.cart_2,.cart_3,.cart_4{
+    background: gold;
+    flex-grow: 1;
+    padding: 10px;
+
+}
