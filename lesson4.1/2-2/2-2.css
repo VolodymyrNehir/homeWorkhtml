@@ -1,0 +1,31 @@
+.father {
+    flex-direction: column;
+    width: 900px;
+}
+.top{
+    justify-content: center;
+    flex-direction: column;
+}
+.header{
+    background: #33559b;
+    flex-basis: 170px;
+}
+.nav{
+    background: goldenrod;
+    flex-basis: 100px;
+}
+.canter{ height: 400px;}
+.main{
+    background: gold;
+    flex-grow: 7;
+}
+.aside {
+    background: hotpink;
+    flex-grow: 3;
+}
+.footer{ background: darkturquoise;}
+.display_flex{ display: flex;}
+.center{
+    justify-content: center;
+    align-items: center;
+}

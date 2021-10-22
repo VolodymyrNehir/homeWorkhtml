@@ -1,0 +1,38 @@
+.father {
+    width: 900px;
+    flex-direction: column;
+    row-gap: 20px;
+    padding: 20px;
+}
+.display_flex{
+    display: flex;
+}
+.center{
+    align-items: center;
+    justify-content: center;
+}
+.widgets {
+    background: #5384ec;
+    flex-basis: 300px;
+}
+.widgets_menu {
+    height: 350px;
+    display: flex;
+    column-gap: 20px;
+}
+.big_widgets {
+    background: #33559b;
+    flex-grow: 1;
+}
+.bigger_widgets {
+    background: #33559b;
+    flex-grow: 1;
+}
+.huge_widgets {
+    background: #33559b;
+    flex-grow: 1;
+}
+.contact {
+    background: #5384ec;
+    height: 600px;
+}

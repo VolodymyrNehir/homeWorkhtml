@@ -1,0 +1,49 @@
+.root {
+    width: 800px;
+    row-gap: 10px;
+    column-gap: 10px;
+    background: #ffffff;
+    flex-direction: column;
+    box-sizing: border-box;
+}
+.display_flex{
+    display: flex;
+}
+.center{
+    justify-content: center;
+    align-items: center ;
+}
+#headr {
+    background: goldenrod;
+    display: flex;
+    justify-content: center;
+    flex-basis: 100px;
+    column-gap: 10px;
+    margin-left: 10px;
+}
+.menu_post {
+    column-gap: 10px;
+    display: flex;
+    justify-content: center;
+    flex-basis: 400px;
+}
+.menu {
+    background: hotpink;
+    flex-grow: 1;
+}
+.posts {
+    flex-grow: 5;
+    flex-direction: column;
+    box-sizing: border-box;
+    row-gap: 10px;
+}
+.post {
+    background: #4267b2;
+    flex-grow: 200;
+}
+#footer {
+    display: flex;
+    justify-content: center;
+    background: goldenrod;
+    margin-left: 10px;
+}
