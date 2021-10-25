@@ -1,55 +1,48 @@
-.father {
+body{
+    height: 3000px;
     background: silver;
-    height: 800px;
-    flex-direction: column;
-    box-sizing: border-box;
-    row-gap: 13px;
 }
-
+.wrapper {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 50px;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
 .display_flex {
     display: flex;
 }
 
 .top_bar {
     flex-grow: 1;
-    box-sizing: border-box;
-    justify-content: center;
-    align-items: center;
-    padding-bottom: 70px;
-    height: 300px;
-
-
+    padding: 70px;
 }
 
 .bar {
-    width: 85%;
-    height: 97%;
-    align-items: center;
-    justify-content: center;
     border: 4px solid deepskyblue;
-    border-radius: 50px;
+    border-radius: 20px;
     flex-direction: column;
-box-sizing: border-box;
 }
 
 .bottom {
     background: #33559b;
     flex-grow: 1;
     justify-content: center;
-    height: 200px;
+    box-sizing: border-box;
 
 
 }
 
 .hader {
-    flex-grow: 1;
+height: 50px;
     width: 100%;
     align-items: center;
     justify-content: center;
 }
 
 .tape {
-    flex-grow: 9;
     width: 100%;
     column-gap: 50px;
     row-gap: 5px;
@@ -58,23 +51,25 @@ box-sizing: border-box;
 
 .tape_1, .tape_2, .tape_3, .tape_4 {
     flex-grow: 1;
-    padding: 30px;
+column-gap: 30px;
+    padding: 20px;
     flex-direction: column;
-    box-sizing: border-box;
 
 }
 
 .tape_1_img, .tape_2_img, .tape_3_img, .tape_4_img {
     background: #33559b;
-    height: 60%;
+    height: 100px;
+    width: 100px;
     padding: 3px;
     border-radius: 15px;
+
 
 }
 
 .tape_1_tex, .tape_2_tex, .tape_3_tex, .tape_4_tex {
-    height: 40%;
-    box-sizing: border-box;
+    width: 100px;
+    text-align: center;
 
 }
 
@@ -84,24 +79,29 @@ box-sizing: border-box;
     flex-direction: column;
     row-gap: 10px;
     column-gap: 10px;
-
+    align-items: center;
+    box-sizing: border-box;
+    width: 30%;
+    border: 3px solid transparent;
 
 }
 
 .cart_1_img, .cart_2_img, .cart_3_img {
-    background: silver;
-    height: 70%;
+    background: #ffffff;
     border-radius: 50%;
+    width: 150px;
+    height: 150px;
+
 
 }
 
 .cart_1_tex, .cart_2_tex, .cart_3_tex {
-    height: 30%;
+    width: 100%;
+    text-align: center;
     color: silver;
 }
 
 .cart_1:hover, .cart_2:hover, .cart_3:hover {
-    border: 3px solid deepskyblue;
-}
+    border-color: deepskyblue;
 
 
