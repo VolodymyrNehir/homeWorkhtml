@@ -28,7 +28,7 @@
     .tape {
         flex-direction: column;
     }
-    }
+
     .cart{
         flex-direction: column;
     }
@@ -50,6 +50,7 @@
     margin: 30px 0;
 }
 .anceta{
+max-width: none;
     flex-direction: column;
     margin: 0;
     height: auto;
