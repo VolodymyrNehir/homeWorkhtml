@@ -1,0 +1,240 @@
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section {
+    display: block;
+}
+body {
+    line-height: 1;
+    /*font-family: 'Roboto', sans-serif;*/
+    font-family: 'Tinos', serif;
+}
+ol, ul {
+    list-style: none;
+}
+blockquote, q {
+    quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+    content: '';
+    content: none;
+}
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+.wrapper {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+.top{
+    background: url("./img/img_1.png") no-repeat;
+    background-size: cover;
+    width: 1440px;
+    height: 800px;
+    position: absolute;
+}
+
+.header_menu{
+    display: flex;
+    justify-content: space-between;
+}
+.info_menu{
+     display: flex;
+    width: 742px;
+    height: 62px;
+ }
+.logo{
+    width: 100px;
+    height: 68px;
+    padding-left: 154px;
+    padding-top: 57px;
+    display: flex;
+}
+.navigator{
+    width: 100%;
+    height: 100%;
+    color: #ffffff;
+    font-size: 14px;
+    line-height: 19px;
+    display: flex;
+    padding-top: 57px;
+    align-items: center;
+
+}
+.navigator nav {
+    margin-right: 23px;
+}
+.drob {
+    content: "";
+    height: 51px;
+    width: 1px;
+background: #ffffff;
+}
+.navigator nav img{
+    width: 13px;
+    height: 13px;
+}
+.telefon{
+    display: flex;
+    flex-direction: column;
+    padding-left: 31px;
+}
+.namber {
+    display: flex;
+padding-right: 2px;
+
+}
+.namber img{
+    width: 23px;
+    height: 23px;
+}
+.telefon_info {
+    width: 154px;
+    height: 38px;
+}
+.butom {
+    background: #FF7400;
+    width: 157px;
+    height: 47px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 45px;
+}
+.header_logo{
+    padding-left: 164px;
+    padding-top: 229px;
+    height: 179px;
+    display: flex;
+    flex-direction: column;
+}
+.top_header {
+    width: 430px;
+    height: 57px;
+    color: #D67E35;
+    font-size: 50px;
+    line-height: 57px;
+    margin-left: 24px;
+    font-family: Tinos;
+    font-style: normal;
+    font-weight: normal;
+}
+.mid_header{
+    width: 556px;
+    height: 85px;
+    color:#D67E35;
+    font-size: 80px;
+    line-height: 92px;
+    font-family: Tinos;
+    font-style: normal;
+    font-weight: normal;
+}
+.butoom_header{
+    width: 500px;
+    font-size: 18px;
+    line-height: 25px;
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    color: #ffffff;
+    margin-top: 12px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.butoom_header::after,.butoom_header::before{
+    content:"";
+    margin-right: 10px;
+    margin-left: 10px;
+    display: flex;
+    width: 61px;
+    height: 2px;
+    background: #ffffff;
+}
+.buttom_logo{
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 19px;
+    color: white;
+    margin-left: 336px;
+    margin-top: 35px;
+}
+.menu_strav{
+    width: 1138px;
+    height: 328px;
+    display: flex;
+    margin: 124px 166px;
+    position: relative;
+    top: -10px;
+}
+.menu{
+    margin: 0 15px;
+    width: 349px;
+    height: 328px;
+    background: #ffffff;
+    display: flex;
+    flex-direction: column;
+}
+.menu_img{
+    position: absolute;
+}
+.menu img {
+    width: 87px;
+    height: 87px;
+    position: relative;
+    top: 48px;
+    left: 130px;
+}
+.menu p{
+    color: #656363;
+    font-size: 26px;
+    line-height: 30px;
+    text-align: center;
+}
+.menu span{
+    color: #BC9060;
+    font-size: 26px;
+    line-height: 30px;
+    padding-left: 7px;
+}
+.menu h3{
+    text-align: right;
+    color: #0f0d0d;
+    font-size: 26px;
+    line-height: 30px;
+    margin: 0 48px;
+    margin-top: 139px;
+    padding-bottom: 20px;
+}
+.menu h4{
+    font-size: 26px;
+    line-height: 30px;
+    margin: 0 78px;
+    margin-top: 139px;
+    padding-bottom: 20px;
+}

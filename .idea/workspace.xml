@@ -5,8 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="046d878c-6260-41a5-9225-f455d572ce63" name="Changes" comment="add">
+      <change afterPath="$PROJECT_DIR$/lesson6/img/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson6/img/img_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson6/img/img_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson6/img/img_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson6/img/telegram-cloud-document-2-5458906701686116593.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson6/lesson6.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson6/lesson6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson6/media.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson 5/5/media.css" beforeDir="false" afterPath="$PROJECT_DIR$/lesson 5/5/media.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,14 +50,19 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lesson6/img" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lesson6/img" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/lesson4.1/classwork/classwork1" />
       <recent name="$PROJECT_DIR$/lesson4.1/1" />
@@ -84,6 +96,7 @@
       <workItem from="1635152260801" duration="31672000" />
       <workItem from="1635360731313" duration="7575000" />
       <workItem from="1635443336167" duration="461000" />
+      <workItem from="1635510738804" duration="21387000" />
     </task>
     <task id="LOCAL-00001" summary="add">
       <created>1634673164382</created>
@@ -218,7 +231,14 @@
       <option name="project" value="LOCAL" />
       <updated>1635369345686</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="add">
+      <created>1635510835213</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1635510835213</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -240,5 +260,9 @@
     <MESSAGE value="ad" />
     <MESSAGE value="add" />
     <option name="LAST_COMMIT_MESSAGE" value="add" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
