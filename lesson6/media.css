@@ -1,0 +1,117 @@
+@media screen  and (max-width: 900px) {
+    .navigator {
+        display: none;
+    }
+
+    .top {
+        width: 375px;
+        background-position: center;
+    }
+
+    body {
+        width: 320px;
+        height: 3000px;
+        background: silver;
+    }
+
+
+    .logo {
+        width: 45px;
+        height: 31px;
+        padding-left: 14px;
+        padding-top: 20px;
+    }
+
+    .header_menu {
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .block {
+        position: absolute;
+        background: #FF7400;
+        width: 30px;
+        height: 3px;
+        top: 26px;
+        right: 17px;
+    }
+
+    .block::after, .block::before {
+        display: flex;
+        content: "";
+        background: #FF7400;
+        width: 30px;
+        height: 3px;
+        margin-bottom: 4px;
+    }
+
+    .block::before {
+        content: "";
+        margin-top: 7px;
+    }
+
+    .header_logo {
+        width: 270px;
+        height: 101px;
+        padding-left: 52px;
+        padding-top: 303px;
+    }
+
+    .top_header {
+        width: 236px;
+        height: 34px;
+        font-size: 30px;
+        line-height: 34px;
+        margin-left: 20px;
+    }
+
+    .mid_header {
+        width: 270px;
+        height: 46px;
+        font-size: 40px;
+        line-height: 46px;
+    }
+
+    .butoom_header, .butoom_header::after, .butoom_header::before {
+        content: none;
+        width: 141px;
+        height: 20px;
+        font-size: 15px;
+        line-height: 20px;
+        padding-left: 70px;
+    }
+
+    .buttom_logo {
+        display: none;
+    }
+
+    .buttom_menu {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 137px;
+        height: 47px;
+        background: #FF7400;
+        margin-top: 59px;
+        margin-left: 119px;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 14px;
+        line-height: 19px;
+        color: #FFFFFF;
+    }
+
+    .menu_strav {
+        flex-direction: column;
+        margin-left: 0;
+        row-gap: 15px;
+        height: 290px;
+    }
+
+    .menu {
+        height: 320px;
+        box-shadow: 10px 10px 40px 20px rgba(0, 0, 0, 0.1);
+    }
+    .menu_img{
+    }
+}

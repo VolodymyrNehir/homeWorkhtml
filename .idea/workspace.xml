@@ -5,15 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="046d878c-6260-41a5-9225-f455d572ce63" name="Changes" comment="add">
-      <change afterPath="$PROJECT_DIR$/lesson6/img/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson6/img/img_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson6/img/img_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson6/img/img_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson6/img/telegram-cloud-document-2-5458906701686116593.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson6/lesson6.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson6/lesson6.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson6/media.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson6/lesson6.css" beforeDir="false" afterPath="$PROJECT_DIR$/lesson6/lesson6.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson6/lesson6.html" beforeDir="false" afterPath="$PROJECT_DIR$/lesson6/lesson6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson6/media.css" beforeDir="false" afterPath="$PROJECT_DIR$/lesson6/media.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,7 +91,12 @@
       <workItem from="1635152260801" duration="31672000" />
       <workItem from="1635360731313" duration="7575000" />
       <workItem from="1635443336167" duration="461000" />
-      <workItem from="1635510738804" duration="21387000" />
+      <workItem from="1635510738804" duration="21695000" />
+      <workItem from="1635598434762" duration="88000" />
+      <workItem from="1635598559402" duration="441000" />
+      <workItem from="1635624276149" duration="2540000" />
+      <workItem from="1635791432567" duration="7785000" />
+      <workItem from="1635876039325" duration="905000" />
     </task>
     <task id="LOCAL-00001" summary="add">
       <created>1634673164382</created>
@@ -238,7 +238,14 @@
       <option name="project" value="LOCAL" />
       <updated>1635510835213</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="add">
+      <created>1635552385647</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1635552385647</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

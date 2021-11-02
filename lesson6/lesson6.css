@@ -129,6 +129,7 @@ padding-right: 2px;
     padding-top: 229px;
     height: 179px;
     display: flex;
+    width: 430px;
     flex-direction: column;
 }
 .top_header {
