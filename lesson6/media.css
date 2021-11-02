@@ -12,6 +12,7 @@
         width: 320px;
         height: 3000px;
         background: silver;
+        overflow-x:hidden
     }
 
 
